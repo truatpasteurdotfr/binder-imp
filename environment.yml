@@ -3,7 +3,4 @@ channels:
   - salilab
   - defaults
 dependencies:
-    - imp
-    - scikit-learn
-    - matplotlib
     - python=2.7
