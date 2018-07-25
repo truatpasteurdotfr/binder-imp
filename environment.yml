@@ -1,8 +1,4 @@
-name: imp
+name: minimal
 channels:
-  - salilab
-  - defaults
 dependencies:
-    - imp
-    - scikit-learn
-    - matplotlib
+
